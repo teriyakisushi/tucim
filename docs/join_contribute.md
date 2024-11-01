@@ -6,7 +6,7 @@
 
 ## 成为本项目的核心维护者
 
-如果你对本项目有更多的想法，或者想要成为核心维护者，请在本项目的仓库页面提出 [Issues](https://github.com/OpenTUC/TUCiM/issues)，我们将会将你拉入[OpenTUC](https://github.com/OpenTUC)组织中并授予**管理员**权限，彼时你对本项目的贡献操作无需提交PR请求。
+如果你想成为本文档的核心维护者，请在仓库提出 [Issues](https://github.com/OpenTUC/TUCiM/issues)，我们会拉你进入[OpenTUC](https://github.com/OpenTUC)组织中并授予**管理员**权限，彼时你对本项目的贡献操作将无需提交PR请求。
 
 
 ## 通过问卷调查
