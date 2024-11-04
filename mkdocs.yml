@@ -86,7 +86,7 @@ nav:
       - 外国语学院: colleges/foreign.md
       - 信息工程学院: colleges/ie.md
       - 艺术学院: colleges/art.md
-      - 国际教育合作学院: colleges/intele.md
+      - 国际教育合作学院: colleges/csie.md
 
     # 学校政策
   - 学校政策:
@@ -115,7 +115,7 @@ nav:
   - 职能部门:
       - 简介: dept/main.md
       - 财务处: dept/finacc.md
-      - 网信办: dept/sb.md
+      - 网信办: dept/netmanager.md
 
     # ORG AND CLUBS
   - 社团组织:
