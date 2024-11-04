@@ -19,7 +19,7 @@
 
 欢迎在校生或毕业校友参与贡献本文档，TUCiM 在你们的支持下将更加完善！
 
-贡献方式请参照[贡献指南](https://www.xn--8mr61bo9j008ahl4a.top/edit/main/)
+贡献方式请参照[贡献指南](https://www.xn--8mr61bo9j008ahl4a.top/join_contribute)。
 
 ### 声明
 
